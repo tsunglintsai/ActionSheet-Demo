@@ -85,8 +85,6 @@
 		3320E08917001A4C0068ABA1 /* ActionSheet Demo */ = {
 			isa = PBXGroup;
 			children = (
-				3320E09217001A4C0068ABA1 /* AppDelegate.h */,
-				3320E09317001A4C0068ABA1 /* AppDelegate.m */,
 				3320E09B17001A4C0068ABA1 /* MainStoryboard_iPhone.storyboard */,
 				3320E09E17001A4C0068ABA1 /* MainStoryboard_iPad.storyboard */,
 				3320E0A117001A4C0068ABA1 /* ViewController.h */,
@@ -99,6 +97,8 @@
 		3320E08A17001A4C0068ABA1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3320E09217001A4C0068ABA1 /* AppDelegate.h */,
+				3320E09317001A4C0068ABA1 /* AppDelegate.m */,
 				3320E08B17001A4C0068ABA1 /* ActionSheet Demo-Info.plist */,
 				3320E08C17001A4C0068ABA1 /* InfoPlist.strings */,
 				3320E08F17001A4C0068ABA1 /* main.m */,
